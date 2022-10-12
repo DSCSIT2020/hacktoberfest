@@ -15,4 +15,4 @@ In this repository, you can find the solutions (as source code) for the problems
 * Chance of receiving a T-Shirt for participating in the Hacktoberfest
 
 <h1>How to Contribute</h1>
-For contributions in this repository, please read `CONTRIBUTING.md` first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
+For contributions in this repository, please read **CONTRIBUTING.md** first. (Please pull the changes from this repo if you have already forked the repository and are facing conflicts)
