@@ -7,10 +7,10 @@ A month-long celebration from October 1st - 31st sponsored by Digital Ocean and 
 <h1>How to Contribute </h1>
 
 1. Fork this repo by clicking on the Fork button in the top-right corner. This creates a new copy of my this repo under your GitHub user account with a URL like: <br>
-https://github.com/<YourUserName>/HacktoberFest2022
+```https://github.com/<YourUserName>/HacktoberFest2022```
 
 2. Clone the repo by opening the terminal on your computer and running the command: <br>
-$ git clone https://github.com/<YourUserName>/HacktoberFest2022
+```$ git clone https://github.com/<YourUserName>/HacktoberFest2022```
 
 3. Choose any problem
 
